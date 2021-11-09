@@ -1,1 +1,2 @@
-# Susan-s-Project37
+# New-Project-36
+A functioning virtual pet.
